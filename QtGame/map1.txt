@@ -1,0 +1,17 @@
+start null 1 4 null 
+map1_r2 null 2 5 0 gun
+map1_r3 null 3 null 1
+map1_r4 null null 7 2 ring
+map1_r5 0 5 8 null 
+map1_r6 1 6 9 4 fire
+map1_r7 null 7 10 5 water
+map1_r8 3 null null 6 
+map1_r9 4 null 12 null flower
+map1_r10 5 null 13 null
+map1_r11 6 11 null null
+map1_r12 null null 15 10
+map1_r13 8 13 null null
+map1_r14 9 null null 12
+end null 15 null null
+map1_r16 11 null null 14
+

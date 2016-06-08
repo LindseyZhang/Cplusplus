@@ -1,0 +1,16 @@
+map2Room1 null 1 4 null
+map2Room2 null 2 5 0 boat
+map2Room3 null 3 6 1
+map2Room4 null null 7 2 hat
+map2Room5 0 null 8 null 
+start 1 null null null
+map2Room7 2 null null null
+map2Room8 3 null 11 null 
+map2Room9 4 9 12 null
+map2Room10 null 10 13 8 shoe car
+end null null 14 9
+map2Room12 7 null 15 null 
+map2Room13 8 13 null null
+map2Room14 9 14 null 12
+map2Room15 10 15 null 13
+map2Room16 11 null null 14
